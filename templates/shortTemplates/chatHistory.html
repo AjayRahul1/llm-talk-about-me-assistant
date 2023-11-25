@@ -1,0 +1,11 @@
+{% for msg in chatHistory %}
+  {% if msg['role'] == "assistant" %}
+  <div class="bg-success-subtle p-4">
+    {{ msg['message'] }}
+  </div>
+  {% else %}
+  <div class="bg-success text-white p-4">
+    {{ msg['message'] }}
+  </div>
+  {% endif %}
+{% endfor %}
