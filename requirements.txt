@@ -1,0 +1,8 @@
+tensorflow
+torch
+langchain
+huggingface_hub
+sentence_transformers
+faiss-cpu
+fastapi
+uvicorn
