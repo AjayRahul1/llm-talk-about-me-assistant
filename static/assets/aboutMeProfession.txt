@@ -1,8 +1,27 @@
-My name is 'Punnamaraju Ajay Rahul Prasad'. People also refer to me as Ajay Rahul or even Rahul.
-Rahul's skills are Git, Python, Java, C, C++, Kotlin, HTML, XML, CSS, Javascript, API, Database Management System (DBMS), Microsoft Office Suite, Agile, Full Stack Web Development, FastAPI, Flask, MySQL, Docker, Google Cloud, CI/CD Pipeline, Security, Machine Learning, Deep Learning, Android App Development, Bash Scripting, Cron Jobs in Linux, Linux, Problem-solving, Singing, Communication, Adaptability, Leadership.
-Rahul's coding Skills are Git, Python, Java, C, C++, Kotlin, HTML, XML, CSS, Javascript, API, Database Management System (DBMS), Microsoft Office Suite, Agile, Full Stack Web Development, FastAPI, Flask, MySQL, Docker, Google Cloud, CI/CD Pipeline, Security, Machine Learning, Deep Learning, Android App Development, Bash Scripting, Cron Jobs in Linux, Linux, Problem-solving.
-Rahul's skills other than coding (non-coding skills) are Singing, Communication, Adaptability, Leadership.
-Rahul want to become a Software Developer. Rahul's aim is to become a Software Developer.
-Rahul is currently pursuing a B.Tech in Computer Science and Engineering at Gayatri Vidya Parishad College of Engineering. Rahul currently have 8.48 CGPA in B.Tech.
-Rahul have completed my Intermediate(2018-2020) at Ascent Junior College with 94.1% in the Intermediate Public Examination that took place in year 2020.
-Rahul have completed my Schooling (2018) at Mahathi Hgh School and he had scored 10/10CGPA in 10th Class Public Examinations that took place in year 2018.
+Bio-Data:
+- Name : 'Punnamaraju Ajay Rahul Prasad'
+- Alias: Ajay Rahul, Ajay, Rahul
+- Email: p.ajayrahul02@gmail.com
+
+
+Skills:
+- 'Skills' : Git, Python, Java, C, C++, Kotlin, HTML, XML, CSS, Javascript, API, Database Management System (DBMS), Microsoft Office Suite, Agile, Full Stack Web Development, FastAPI, Flask, MySQL, Docker, Google Cloud, CI/CD Pipeline, Security, Machine Learning, Deep Learning, Android App Development, Bash Scripting, Cron Jobs in Linux, Linux, Problem-solving, Singing, Communication, Adaptability, Leadership.
+- 'Coding Skills' : Git, Python, Java, C, C++, Kotlin, HTML, XML, CSS, Javascript, API, Database Management System (DBMS), Microsoft Office Suite, Agile, Full Stack Web Development, FastAPI, Flask, MySQL, Docker, Google Cloud, CI/CD Pipeline, Security, Machine Learning, Deep Learning, Android App Development, Bash Scripting, Cron Jobs in Linux, Linux, Problem-solving.
+- 'Non-coding skills' : Singing, Communication, Adaptability, Leadership.
+
+
+Education:
+- (2020-Present) B.Tech in Computer Science and Engineering at Gayatri Vidya Parishad College of Engineering. Scored "8.48 CGPA" in B.Tech.
+- (2018-2020) Intermediate at Ascent Junior College with 94.1% in the Intermediate Public Examination that took place in year 2020.
+- (2017-2018) Did "schooling" at "Mahathi High School" and scored "10/10 CGPA" in 10th Class Public Examinations that took place in year 2018.
+- Future aim: To become a Software Developer.
+
+
+Projects:
+- Count (Number of Projects Done): 2
+- Project 1:
+- - Name: T20 Sense - This is a project that uses a model to predict a Dream11 Team through the training of data that was made with data analysis while also displaying useful statistics on the website.
+- - Description: Project 'T20 Sense', a comprehensive cricket data analysis tool using technologies like FastAPI, Bootstrap, Google Cloud Platform (GCP), HTMX, Jinja2, Matplotlib Figures, and Plotly for the Indian Premier League (IPL) and other tournaments match data. Conducted in-depth Data Analysis and created various statistical models to predict player performance. The project's primary objective was to generate a data-driven team through a Deep Learning Model and a Language Learning Model (LLM), selecting players based on their historical performance for upcoming matches.
+
+- Project 2:
+- - Name: Document Summarizer using Generative AI - A Gen AI application that summarizes the documents without the loss of information with use of APIs.
