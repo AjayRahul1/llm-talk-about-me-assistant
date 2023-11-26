@@ -7,14 +7,17 @@ import os
 import setup_fns
 
 db=0
-chatHistory={}
+chatHistory=[]
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
   global db
   db = setup_fns.setup()
   yield
-  os.remove('chatHistory.json')
+  try:
+    os.remove('chatHistory.json')
+  except:
+    print('chatHistory.json not found')
 
 app = FastAPI(lifespan=lifespan)
 
@@ -24,7 +27,7 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 @app.get("/", response_class=HTMLResponse)
 def home(request: Request):
   global chatHistory
-  chatHistory = {}
+  chatHistory = []
   return templates.TemplateResponse("index.html",{"request": request})
 
 @app.get('/getPromptResponse')
