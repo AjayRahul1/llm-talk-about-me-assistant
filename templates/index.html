@@ -35,11 +35,11 @@
     </nav>
     
     <div class="container bg-body-secondary p-3 my-2 rounded">
-      <form class="d-flex mb-3" hx-get="/getPromptResponse" hx-trigger="submit" hx-target="#ChatHistory" parameters>
+      <form class="d-flex" hx-get="/getPromptResponse" hx-trigger="submit" hx-target="#ChatHistory" parameters>
         <input class="form-control me-2 rounded-pill" id="chatPrompt" name="chatPrompt" type="text" placeholder="Wanna ask about Rahul? Ask here." aria-label="Chat Prompt Textbox">
         <button type="submit" class="btn btn-outline-dark rounded-pill h-100">Ask</button>
       </form>
-      <div id="ChatHistory"></div>
+      <div id="ChatHistory" class="mt-2"><p class="fs-2 fw-bold border-bottom border-success">&#9758; Chat</p></div>
     </div>
   </body>
 </html>
