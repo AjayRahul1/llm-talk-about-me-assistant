@@ -85,7 +85,7 @@ cd llm-talk-about-me-assistant/
 - First go to the folder where you want to clone
 - Then copy below commands in your terminal in Linux. All done.
 
-```shell [Ubuntu]
+```shell []
 git clone https://github.com/AjayRahul1/llm-talk-about-me-assistant.git
 cd llm-talk-about-me-assistant/
 sudo apt install python3.11
@@ -95,7 +95,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
-```shell [Fedora]
+```shell []
 git clone https://github.com/AjayRahul1/llm-talk-about-me-assistant.git
 cd llm-talk-about-me-assistant/
 sudo dnf install python3.11
