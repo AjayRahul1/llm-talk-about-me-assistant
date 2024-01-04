@@ -1,7 +1,7 @@
-# my-professional-llm
+# Assistant of Ajay Rahul
 
 - Chat about me with my assistant!
-- 
+- This is an LLM Assistant Bot that you can use to know about me. You ask it questions and it gives replies.
 
 ## Steps to Clone, Install, `Run` the project
 
